@@ -25,7 +25,3 @@
     * files/: The files to be restored
     * files/[randomly generated id]/: for folders only
     * files/[randomly generated id].wrh: for files only
-
-
-
-
